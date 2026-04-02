@@ -1,0 +1,20 @@
+{
+  "short_name": "OutlinePWA",
+  "name": "Cricut Sticker Outline Generator",
+  "icons": [
+    {
+      "src": "icons/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617"
+}
